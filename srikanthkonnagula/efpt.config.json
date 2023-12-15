@@ -1,0 +1,73 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "TrainingManagementSystemContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "srikanthkonnagula",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[AppliedTrainings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Attendence]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Employee]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Feedback]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ManagerData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TraineeRegistration]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TrainingData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserDetails]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "ics-lt-64146d3\\sqlexpress.TrainingManagementSystem.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
